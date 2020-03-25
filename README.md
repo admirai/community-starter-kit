@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot app, a learning bot for github community.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Guides you trough the proccess and tasks within the github community.
 
 ## Getting started
 
