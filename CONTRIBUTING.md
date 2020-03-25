@@ -12,9 +12,10 @@ There are many ways you can help us make this project better. Every repository i
 
 - **development-needed**: 
 - **qa-needed**: 
-- **documentation-needed**: 
-- **bug-high-priority**: 
-- **bug-low-priority**: 
-- **help-wanted**: 
+- **documentation-needed**: Missing documentation
+- **bug-high-priority**: Important!
+- **bug-low-priority**: No priority
+- **help-wanted**: Need help
+
 
 You can also help by translating documentation and reviewing open pull requests.
